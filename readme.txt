@@ -1,4 +1,3 @@
-<img src="https://rankboost.pro/wp-content/uploads/2025/02/screenshot-1old.png" alt="Description of the image">
 === Easy AI Chat Embed ===
 Contributors: rankboostpro
 Tags: chatbot, embed, AI, chat, FREE
